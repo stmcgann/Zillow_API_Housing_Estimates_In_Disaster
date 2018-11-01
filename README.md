@@ -29,7 +29,11 @@ Known Issues:
 This project was developed by:
 
 Allison Ragan https://www.linkedin.com/in/allison-ragan/ allison.n.ragan@gmail.com
+
 Erik Green https://www.linkedin.com/in/erikgreenj/ erikgreenj@gmail.com
+
 Suzanne McGann https://www.linkedin.com/in/suzanne-mcgann-79052b83/ suzannemcgann2@gmail.com
+
 Melanie Welcome https://www.linkedin.com/in/melanie-welcome/ mwelcome21@gmail.com
+
 Thomas Bacas https://www.linkedin.com/in/thomas-bacas/ thomasbacas@gmail.com
